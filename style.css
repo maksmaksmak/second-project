@@ -1,0 +1,32 @@
+.purple {
+    background: #323257;
+}
+
+.green {
+    background: #607D8B;
+}
+
+.btn-background {
+    line-height: 140%;
+    font-size: 25px;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    transform: translate(-50% ,-50%);
+    transition: 10s;
+}
+
+.coral{
+    color: darkmagenta;
+    background-color: coral;
+    left: 50%;
+    top: 50%;
+}
+
+.white {
+    color: black;
+    background-color: #F3E5F5;
+    left: 25%;
+    top: 25%;
+}
